@@ -1,4 +1,4 @@
-# Figma project and WordPress
+# Figma project presented in WordPress
 Video: https://youtu.be/ryn7D2t6GAI
 username: admin
 password: LV!2&Yihm#XKhzpOKS
